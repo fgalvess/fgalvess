@@ -12,6 +12,7 @@
   <div style="display: inline_block"><br>
     <img align="left" height="225" alt="coding-time" src="code.gif">
     <h1 align="center">Ferramentas e Tecnologias que utilizo</h1> 
+      <a href="https://code.visualstudio.com/" title="Visual Studio Code" rel="nofollow"><img src="/hussainweb/hussainweb/raw/main/icons/vscode.png" style="max-width: 100%;"></a>
       <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30"></a>
       <a href="https://www.selenium.dev/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="30" height="30"></a>
       <a href="https://appium.io/" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/3221291?s=200&v=4" alt="Appium" width="30" height="30"></a>
