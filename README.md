@@ -10,14 +10,8 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Tecnlogias mais usadas</h1>
-    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-    <img align="center" alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
-    <img align="center" alt="Cucumber" src="https://img.shields.io/badge/Cucumber-open.svg?style=for-the-badge&logo=Cucumber&logoColor=white">
-    <img align="center" alt="JUnit" src="https://camo.githubusercontent.com/?style=for-the-badge&logo=JUnit&logoColor=white">
-    <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
+    <img align="left" height="225" alt="coding-time" src="code.gif">
+    <h1 align="center">Ferramentas e Tecnologias que utilizo</h1>
     
    </div>
     
