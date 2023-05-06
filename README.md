@@ -11,7 +11,6 @@
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Tecnlogias mais usadas</h1>
-    
    </div>
     
   
@@ -26,5 +25,3 @@
       <img width="25" src="instagram.png">
     </a>
 </div>
-  
-![Snake animation](https://github.com/fgalvess/fgalvess/blob/output/github-contribution-grid-snake.svg)
