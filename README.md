@@ -11,8 +11,10 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="225" alt="coding-time" src="code.gif">
-    <h1 align="center">Ferramentas e Tecnologias que utilizo</h1>
-    
+    <h1 align="center">Ferramentas e Tecnologias que utilizo</h1>  
+      <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30"></a>
+    <img width="25" alt="Selenium" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" /> </a>
+    <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" height="25"></a>
    </div>
     
   
