@@ -12,11 +12,16 @@
   <div style="display: inline_block"><br>
     <img align="left" height="225" alt="coding-time" src="code.gif">
     <h1 align="center">Ferramentas e Tecnologias que utilizo</h1> 
+      <a href="https://eclipseide.org/" target="_blank" rel="noopener noreferrer"><img src="https://static.wikia.nocookie.net/logopedia/images/f/f8/Eclipse_2014_%28Icon%29.svg/revision/latest?cb=20230316015633" alt="Eclipse" width="25" height="25"></a>
+      <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" alt="VsCode" width="25" height="25"></a>
       <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30"></a>
       <a href="https://www.selenium.dev/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="30" height="30"></a>
       <a href="https://appium.io/" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/3221291?s=200&v=4" alt="Appium" width="30" height="30"></a>
       <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"></a>
       <a href="https://www.cypress.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.jsdelivr.com/github.com/cypress-io.png" alt="Cypress" width="30" height="30"></a>
+     <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" alt="Git" width="30" height="30"></a>
+      <a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" alt="GitHub" width="30" height="30"></a>
+      <a href="https://about.gitlab.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gitlab/gitlab-original.svg" alt="GitLab" width="30" height="30"></a>
      <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" alt="Postman" width="30" height="30"></a>
     <a href="https://insomnia.rest/" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/113130332?s=200&v=4" alt="Insomnia" width="30" height="30"></a>
     <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30"></a>  
