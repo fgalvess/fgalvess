@@ -22,7 +22,6 @@
       <a href="https://appium.io/" target="_blank" rel="noopener noreferrer"><img src="https://pics.freeicons.io/uploads/icons/png/2832550721536125460-512.png" alt="Appium" width="30" height="30"></a>
       <a href="https://www.cypress.io/" target="_blank" rel="noopener noreferrer"><img src="https://pics.freeicons.io/uploads/icons/png/3556671901536211770-512.png" alt="Cypress" width="25" height="25"></a>
       <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" alt="Git" width="25" height="25"></a>
-      <a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" alt="GitHub" width="25" height="25"></a>
       <a href="https://about.gitlab.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gitlab/gitlab-original.svg" alt="GitLab" width="25" height="25"></a>
       <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" alt="Postman" width="25" height="25"></a>
       <a href="https://insomnia.rest/" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/ms72l6fnlylfc1ugzbq9" alt="Insomnia" width="25" height="25"></a>
