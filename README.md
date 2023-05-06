@@ -23,8 +23,8 @@
     <a href = "https://www.linkedin.com/in/f%C3%A1bio-guerra-b48680228/">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://www.instagram.com/fabiu_guerra/">
-      <img width="25" src="instagram.png">
+    <a href = "https://whatsa.me/5561996268288">
+      <img width="25" src="whatsapp.png">
     </a>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
