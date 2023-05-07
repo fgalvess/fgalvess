@@ -19,7 +19,7 @@
       <a href="https://maven.apache.org/" target="_blank" rel="noopener noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgXt0j3wavgPGYlB9u2SDBuVq_JoMtQwhPXqC4tYOivwRLU3wzOGYgJMrbnSoohG3evXk&usqp=CAU" alt="Apache Maven" width="25" height="25"></a>
       <a href="https://www.selenium.dev/" target="_blank" rel="noopener noreferrer"><img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" alt="Selenium" width="25" height="25"></a>
       <a href="https://cucumber.io/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cucumber/cucumber-plain.svg" alt="Cucumber" width="25" height="25"></a>
-      <a href="https://appium.io/" target="_blank" rel="noopener noreferrer"><img src="https://pics.freeicons.io/uploads/icons/png/2832550721536125460-512.png" alt="Appium" width="30" height="30"></a>
+      <a href="https://appium.io/" target="_blank" rel="noopener noreferrer"><img src="https://pics.freeicons.io/uploads/icons/png/2832550721536125460-512.png" alt="Appium" width="25" height="25"></a>
       <a href="https://www.cypress.io/" target="_blank" rel="noopener noreferrer"><img src="https://pics.freeicons.io/uploads/icons/png/3556671901536211770-512.png" alt="Cypress" width="25" height="25"></a>
       <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" alt="Git" width="25" height="25"></a>
       <a href="https://about.gitlab.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gitlab/gitlab-original.svg" alt="GitLab" width="25" height="25"></a>
