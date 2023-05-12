@@ -32,7 +32,7 @@
   
   <h1 align="center">Entre em Contato</h1>
     <a href = "mailto: fabioguerra2003@gmail.com"><img width="35" src="gmail.svg"></a>
-    <a href = "https://www.linkedin.com/in/f%C3%A1bio-guerra-b48680228/"><img width="30" src="linkedin.svg"></a>
+    <a href = "https://www.linkedin.com/in/fábio-guerra/"><img width="30" src="linkedin.svg"></a>
     <a href = "https://whatsa.me/5561996268288"><img width="30" src="whatsapp.png"></a>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
